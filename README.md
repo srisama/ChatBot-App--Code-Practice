@@ -5,7 +5,7 @@
 
 
 
-# Screenshot of the Application
+### Screenshot of the Application
 
-## ChatBot Chat in Local Visual Studio Code
+### ChatBot Chat in Local Visual Studio Code
 <img src="/ChatterBot-Screenshot.jpg" alt="Screen Shot -1"/>
